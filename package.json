@@ -1,0 +1,23 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "HW",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwa4791/Liri.git"
+  },
+  "keywords": [
+    "Package",
+    "JSon"
+  ],
+  "author": "Bobby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwa4791/Liri/issues"
+  },
+  "homepage": "https://github.com/rwa4791/Liri#readme"
+}
